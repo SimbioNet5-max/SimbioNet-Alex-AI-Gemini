@@ -1,0 +1,88 @@
+HTML
+
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Маніфест Відродження</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px 0;
+        }
+        section {
+            padding: 20px;
+            margin-bottom: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Маніфест Відродження</h1>
+        <p>Наш шлях до нового майбутнього</p>
+    </header>
+
+    <div class="container">
+        <section id="introduction">
+            <h2>Вступ</h2>
+            <p>Цей маніфест закладає основи для відродження та прогресу нашого суспільства. Ми віримо у колективну силу, інновації та стійкий розвиток.</p>
+        </section>
+
+        <section id="principles">
+            <h2>Основні Принципи</h2>
+            <ul>
+                <li><strong>Освіта та Наука:</strong> Інвестиції у знання як рушійну силу.</li>
+                <li><strong>Екологічна Стійкість:</strong> Збереження планети для майбутніх поколінь.</li>
+                <li><strong>Соціальна Справедливість:</strong> Рівні можливості для всіх членів суспільства.</li>
+                <li><strong>Технологічний Прогрес:</strong> Використання інновацій для покращення життя.</li>
+                <li><strong>Культурне Збагачення:</strong> Підтримка та розвиток національної і світової культурної спадщини.</li>
+            </ul>
+        </section>
+
+        <section id="call-to-action">
+            <h2>Заклик до Дії</h2>
+            <p>Ми запрошуємо кожного долучитися до цієї важливої справи. Разом ми зможемо збудувати сильне, процвітаюче та справедливе суспільство. Кожен крок, який ми робимо сьогодні, визначає наше завтра.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2025 Маніфест Відродження. Всі права захищені.</p>
+    </footer>
+</body>
+</html>
